@@ -7,18 +7,18 @@ OPEN IT
 
 WHAT IT SHOWS
   A map for postulating possible conflicts of interest, not proving them.
-  3,942 entities (people + organizations) and 61,595 connections:
-    stated relationships from the researcher's vault (OCR of screenshots + notes) and X posts: 1,586
+  3,939 entities (people + organizations) and 61,019 connections:
+    stated relationships from the researcher's vault (OCR of screenshots + notes) and X posts: 1,574
     stated relationships found in a second pass over the source text: 42
-    same as (probable name variants; both entities kept): 37
-    co-mentioned with Jeffrey Epstein (same screenshot / note / X post): 790
-    co-mentioned (same screenshot / note / X post): 56,976
-    derived shared affiliations (shared board / same employer / co-investor / shared affiliation via an organization): 2,164
+    same as (probable name variants; both entities kept): 36
+    co-mentioned with Jeffrey Epstein (same screenshot / note / X post): 788
+    co-mentioned (same screenshot / note / X post): 56,423
+    derived shared affiliations (shared board / same employer / co-investor / shared affiliation via an organization): 2,156
   Status: verified (green) = the source states it; corrected (blue) = the source states it but the machine reading was fixed;
   alleged (orange) = not confirmed by the source. Every co-mention, name-variant guess and derived link is alleged unless marked.
   Loose links are straight lines coloured by type: red = co-mentioned with Epstein, grey = co-mentioned, black = same as,
   teal = shared board, brown = same employer, pink = co-investor, light blue = shared affiliation.
-  Distance to Jeffrey Epstein: 1 step 831 · 2 steps 2,450 · 3+ steps 508 · not connected 152.
+  Distance to Jeffrey Epstein: 1 step 829 · 2 steps 2,438 · 3+ steps 517 · not connected 154.
   Nothing here asserts wrongdoing or a conflict of interest.
 
 HOW TO USE
